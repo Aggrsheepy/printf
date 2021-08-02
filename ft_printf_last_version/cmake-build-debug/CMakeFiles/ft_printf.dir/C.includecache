@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/edomino/Desktop/ft_printf/main_i.c
+stdarg.h
+-
+stdio.h
+-
+string.h
+-
+printf.h
+/Users/edomino/Desktop/ft_printf/printf.h
+
+/Users/edomino/Desktop/ft_printf/printf.h
+stdlib.h
+/Users/edomino/Desktop/ft_printf/stdlib.h
+unistd.h
+/Users/edomino/Desktop/ft_printf/unistd.h
+stdarg.h
+/Users/edomino/Desktop/ft_printf/stdarg.h
+limits.h
+/Users/edomino/Desktop/ft_printf/limits.h
+stdio.h
+/Users/edomino/Desktop/ft_printf/stdio.h
+
